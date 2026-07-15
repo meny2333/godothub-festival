@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "c49626e6c8a8efb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e346b3ad6268d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b7f17e656574ca",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "看板"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76036559c7cd2fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9dedaa9daf97b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b80d17e8ae311bd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "36d2e6e1f0838159",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2114ee3cbee21995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "232561a424151c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "549fbb6a311898ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d6d6737e2a273b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "看板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "看板 的反向链接列表"
+            }
+          },
+          {
+            "id": "19fc8f24a5a1c9e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "甘特图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "甘特图 的出链列表"
+            }
+          },
+          {
+            "id": "5941e345d27deead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c23f7848f9c2ad82",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "60aeaefac9d77f56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "甘特图.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "甘特图 的大纲"
+            }
+          },
+          {
+            "id": "7e5d2eecc053392a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "91b7f17e656574ca",
+  "lastOpenFiles": [
+    "看板.md",
+    "甘特图.md",
+    "甘特图1.md",
+    "开发日记/Untitled Kanban.md",
+    "2026-07-15.md",
+    "路径.md",
+    "AAA简介.md",
+    "故事梗概.md",
+    "角色设计.md",
+    "Part1、2.md",
+    "Part3、4.md",
+    "archieve/2026-07-15 15-00-22.mp4",
+    "archieve/Peaceful_Stagnation.mp3",
+    "开发日记",
+    "archieve/Pasted image 20260715152135.png",
+    "archieve/Pasted image 20260715151712.png",
+    "archieve/Pasted image 20260715151703.png",
+    "未命名.base",
+    "未命名.canvas",
+    "archieve/20260713T100521446524Z-ipython-tmp-c9bc6090a4224cfcbf9ce8007ea75e01.png",
+    "archieve",
+    "Part1.md",
+    "archieve/2026-07-13_17-22-17.png",
+    "archieve/2026-07-13 17-19-43.mp4",
+    "archieve/2026-07-13 15-07-13.mp4"
+  ]
+}
